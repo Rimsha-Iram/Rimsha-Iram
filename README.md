@@ -1,34 +1,35 @@
-# Hi there, I'm Rimsha 👋
+# Hi there, I'm Rimsha 👋  
 
-🎓 I'm a Mathematics graduate with a strong interest in Data Analysis and AI tools.  
-🎯 I enjoy turning complex data into clear, visual insights that tell a story.
-
----
-
-### 🔍 Recent Project: K-Drama Data Analysis
-I explored trends across hundreds of Korean dramas using Python, pandas, and matplotlib.
-
-📊 What I did:
-- Cleaned and merged datasets
-- Analyzed trends by genre, ratings, years, and more
-- Visualized insights with clear and appealing plots
-
-📂 [View Project Repository](https://github.com/Rimsha-Iram/KDrama-DataAnalysis)
+🎓 **Mathematics Graduate | Aspiring Data Analyst | AI Tools Enthusiast**  
+I’m passionate about uncovering insights from data and transforming them into clear, visual stories that drive understanding and decisions.  
 
 ---
 
-### 🛠 Tools I Use
-- Python, pandas, matplotlib, seaborn
-- Jupyter Notebook, GitHub
+## 🛠️ Skills & Tools  
+- **Programming & Analysis:** Python, pandas, NumPy, matplotlib, seaborn  
+- **Data Visualization & BI:** Power BI, Jupyter Notebook  
+- **Other Tools:** GitHub, Excel, SPSS  
 
 ---
 
-### 🌱 Currently Exploring
-- Interactive dashboards
-- Real-world data projects for portfolio
+## 📂 Featured Projects  
+
+### 🔍 Data Analysis with Python  
+- [**K-Drama Data Analysis**](https://github.com/Rimsha-Iram/KDrama-DataAnalysis) – Explored trends across hundreds of Korean dramas (genres, ratings, release years).  
+- [**Tesla & GME Stock Analysis**](https://github.com/Rimsha-Iram/Tesla-GME-Stock-Analysis) – Scraping, cleaning, and visualization of stock prices and revenues, with interactive graphs.  
+- [**Olympic Athlete Analysis**](https://github.com/Rimsha-Iram/Olympic-Athlete-Data-Analysis-1896-2016-) – Studied demographics, medal counts, and participation trends with descriptive statistics & visual insights.  
+
+### 📊 Dashboards & BI  
+- [**Emergency Response – Power BI**](https://github.com/Rimsha-Iram/Emergency-Response-PowerBI) – AI-powered dashboard simulating emergency dispatch decisions based on real-world scenarios.  
 
 ---
 
-### 📫 Let's Connect
-Via [LinkedIn](www.linkedin.com/in/rimsha-iram-841905367)
+## 🌱 What I’m Exploring  
+- Building **interactive dashboards** and real-world case studies  
+- Expanding my portfolio with business-focused analytics projects  
 
+---
+
+## 📫 Let’s Connect  
+- **LinkedIn:** [Rimsha Iram](https://www.linkedin.com/in/rimsha-iram-841905367)  
+- **GitHub:** [Rimsha-Iram](https://github.com/Rimsha-Iram)  
