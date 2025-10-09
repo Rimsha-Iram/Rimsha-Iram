@@ -33,18 +33,6 @@
 
 ---
 
-## 📊 GitHub Highlights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimsha-Iram&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsha-Iram&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsha-Iram&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 🌱 What I’m Exploring  
 - Designing **interactive dashboards** for real-world problems  
