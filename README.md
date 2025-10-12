@@ -25,11 +25,45 @@
 
 ## 📂 Featured Projects  
 
-- [**Olympic Athlete Analysis**](https://github.com/Rimsha-Iram/Olympic-Athlete-Data-Analysis-1896-2016-) 🥇 Analysis of demographics, medals & participation trends (1896–2016).  
-- [**Tesla & GME Stock Analysis**](https://github.com/Rimsha-Iram/Tesla-GME-Stock-Analysis) 📈 Web scraping, cleaning & visualization of stock data.  
-- [**House Sales in King County**](https://github.com/Rimsha-Iram/House-Sales-King-County-Analysis) 🏡 Predictive modeling with regression techniques.  
-- [**K-Drama Data Analysis**](https://github.com/Rimsha-Iram/KDrama-DataAnalysis) 🎬 Data-driven exploration of Korean dramas (genres, ratings, trends).  
-- [**Emergency Response – Power BI**](https://github.com/Rimsha-Iram/Emergency-Response-PowerBI) 🚨 AI-powered dashboard simulating emergency dispatch decisions.  
+## 📈 Power BI Dashboards
+
+- [**Retail Sales & Profit Performance Dashboard**](https://github.com/Rimsha-Iram/Retail-Sales-Profit-Performance-Dashboard) 🛒  
+  *Analyzes sales, profit, and customer trends to highlight regional and product-level performance.*
+
+- [**Coffee Shop Sales & Inventory Dashboard**](https://github.com/Rimsha-Iram/Coffee-Shop-Sales-Inventory-Performance-Dashboard) ☕  
+  *Interactive sales & inventory insights — visualizing daily trends, product demand, and revenue drivers.*
+
+- [**HR Payroll & Workforce Dashboard**](https://github.com/Rimsha-Iram/HR-Payroll-Workforce-Dashboard) 👩‍💼  
+  *One-page report highlighting headcount, payroll cost, and workforce distribution using DAX measures.*
+
+- [**Emergency Response – Power BI**](https://github.com/Rimsha-Iram/Emergency-Response-PowerBI) 🚨  
+  *AI-powered Power BI dashboard simulating emergency dispatch decisions.*
+
+---
+
+## 🧠 Capstone & Certifications
+
+- [**IBM Data Analyst Professional Capstone**](https://github.com/Rimsha-Iram/IBM_Data_Analyst_Professional_Capstone) 🎓  
+  *End-to-end data analysis workflow — including data collection, web scraping, data wrangling, SQL analysis, and visualization.*
+
+- [**Certifications Repository**](https://github.com/Rimsha-Iram/Certifications) 🏅  
+  *Collection of all IBM and professional certificates.*
+
+---
+
+## 🧮 Python & Data Analysis Projects
+
+- [**House Sales in King County**](https://github.com/Rimsha-Iram/House-Sales-King-County-Analysis) 🏡  
+  *Predictive modeling using Linear, Polynomial & Ridge Regression.*
+
+- [**Olympic Athlete Data Analysis (1896–2016)**](https://github.com/Rimsha-Iram/Olympic-Athlete-Data-Analysis-1896-2016-) 🥇  
+  *Exploratory analysis of Olympic demographics, medals & participation trends.*
+
+- [**Tesla & GME Stock Analysis**](https://github.com/Rimsha-Iram/Tesla-GME-Stock-Analysis) 📊  
+  *Web scraping, data cleaning, and visualization of Tesla & GameStop stock and revenue trends.*
+
+- [**K-Drama Data Analysis**](https://github.com/Rimsha-Iram/KDrama-DataAnalysis) 🎬  
+  *Data-driven exploration of K-drama trends, genres, and audience preferences.*
 
 ---
 
