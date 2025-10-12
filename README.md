@@ -19,7 +19,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="45" height="45"/>
 </p>
 
-📌 *IBM Certified Data Analyst (Coming Soon)*  
+📌 *IBM Certified Data Analyst*
 
 ---
 
