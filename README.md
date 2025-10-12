@@ -43,7 +43,7 @@
 
 ## 🧠 Capstone & Certifications
 
-- [**IBM Data Analyst Professional Capstone**](https://github.com/Rimsha-Iram/IBM_Data_Analyst_Professional_Capstone) 🎓  
+- [**Technology Trends and Developer InsightS (IBM)**](https://github.com/Rimsha-Iram/IBM_Data_Analyst_Professional_Capstone) 🎓  
   *End-to-end data analysis workflow — including data collection, web scraping, data wrangling, SQL analysis, and visualization.*
 
 - [**Certifications Repository**](https://github.com/Rimsha-Iram/Certifications) 🏅  
