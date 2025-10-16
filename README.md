@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rimsha Iram  
+# Hi, I'm Rimsha Iram  
 
 🎓 **Mathematics Graduate | Data Analyst in the Making | AI Tools Explorer**  
 ✨ Passionate about turning raw data into meaningful insights & impactful stories.  
