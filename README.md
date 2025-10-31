@@ -35,21 +35,22 @@
 - [**Retail Sales & Profit Performance Dashboard**](https://github.com/Rimsha-Iram/Retail-Sales-Profit-Performance-Dashboard) 💼  
   *Developed a Power BI dashboard analyzing regional sales, profit, and product performance for business growth insights.*
 
-- [**HR Payroll & Workforce Dashboard**](https://github.com/Rimsha-Iram/HR-Payroll-Workforce-Dashboard) 👩‍💼  
-  *Built an interactive HR analytics dashboard visualizing workforce distribution, payroll costs, and overtime trends.*
+- [**IVT (Invalid Traffic) Analysis Dashboard**](https://github.com/Rimsha-Iram/IVT-Traffic-Analysis-Dashboard) 📱  
+  *Analyzed invalid traffic patterns across multiple apps to detect bot-driven behavior and optimize ad performance.*
 
 ---
 
-## 📈 Power BI Dashboards  
+## 💼 CodeAlpha Internship Projects  
+> Dashboards and analytics projects developed during my CodeAlpha Internship, showcasing HR, retail, and emergency response analytics.
+
+- [**HR Payroll & Workforce Dashboard**](https://github.com/Rimsha-Iram/HR-Payroll-Workforce-Dashboard) 👩‍💼  
+  *Interactive Power BI dashboard visualizing headcount, payroll cost, overtime hours, and workforce patterns.*
 
 - [**Coffee Shop Sales & Inventory Dashboard**](https://github.com/Rimsha-Iram/Coffee-Shop-Sales-Inventory-Performance-Dashboard) ☕  
-  *Interactive dashboard tracking daily sales, inventory, and customer behavior trends.*
+  *Analyzes daily sales, inventory levels, and customer behavior to uncover performance trends.*
 
 - [**Emergency Response – Power BI**](https://github.com/Rimsha-Iram/Emergency-Response-PowerBI) 🚨  
-  *AI-powered Power BI dashboard simulating emergency dispatch and decision-making.*
-
-- [**IVT (Invalid Traffic) Analysis Dashboard**](https://github.com/Rimsha-Iram/IVT-Traffic-Analysis-Dashboard) 📱  
-  *Analyzed invalid traffic patterns across multiple apps to detect bot-driven behavior and optimize ad performance.*
+  *AI-powered dashboard simulating emergency dispatch and response optimization.*
 
 ---
 
