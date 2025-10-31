@@ -25,45 +25,59 @@
 
 ## 📂 Featured Projects  
 
-## 📈 Power BI Dashboards
+## 🚀 Elevvo Pathways Internship Projects  
+> These projects were completed during my Elevvo Pathways Internship, focusing on real-world data analytics, visualization, and business insights.
 
-- [**Retail Sales & Profit Performance Dashboard**](https://github.com/Rimsha-Iram/Retail-Sales-Profit-Performance-Dashboard) 🛒  
-  *Analyzes sales, profit, and customer trends to highlight regional and product-level performance.*
+- [**Customer Segmentation & Retention Analysis (RFM Model)**](https://github.com/Rimsha-Iram/Customer-Segmentation-Retention-Analysis-RFM-Model-) 🧮  
+  *Applied RFM analysis to identify key customer segments, enhance retention strategies, and support data-driven business decisions.*
 
-- [**Coffee Shop Sales & Inventory Dashboard**](https://github.com/Rimsha-Iram/Coffee-Shop-Sales-Inventory-Performance-Dashboard) ☕  
-  *Interactive sales & inventory insights — visualizing daily trends, product demand, and revenue drivers.*
+- [**Walmart Retail Sales – Time Series Analysis**](https://github.com/Rimsha-Iram/Walmart-Retail-Sales-Time-Series-Analysis) 🛒  
+  *Explored Walmart’s retail sales data to uncover time-based trends, seasonality, and product-level insights using Python.*
+
+- [**Retail Sales & Profit Performance Dashboard**](https://github.com/Rimsha-Iram/Retail-Sales-Profit-Performance-Dashboard) 💼  
+  *Developed a Power BI dashboard analyzing regional sales, profit, and product performance for business growth insights.*
 
 - [**HR Payroll & Workforce Dashboard**](https://github.com/Rimsha-Iram/HR-Payroll-Workforce-Dashboard) 👩‍💼  
-  *One-page report highlighting headcount, payroll cost, and workforce distribution using DAX measures.*
+  *Built an interactive HR analytics dashboard visualizing workforce distribution, payroll costs, and overtime trends.*
+
+---
+
+## 📈 Power BI Dashboards  
+
+- [**Coffee Shop Sales & Inventory Dashboard**](https://github.com/Rimsha-Iram/Coffee-Shop-Sales-Inventory-Performance-Dashboard) ☕  
+  *Interactive dashboard tracking daily sales, inventory, and customer behavior trends.*
 
 - [**Emergency Response – Power BI**](https://github.com/Rimsha-Iram/Emergency-Response-PowerBI) 🚨  
-  *AI-powered Power BI dashboard simulating emergency dispatch decisions.*
+  *AI-powered Power BI dashboard simulating emergency dispatch and decision-making.*
+
+- [**IVT (Invalid Traffic) Analysis Dashboard**](https://github.com/Rimsha-Iram/IVT-Traffic-Analysis-Dashboard) 📱  
+  *Analyzed invalid traffic patterns across multiple apps to detect bot-driven behavior and optimize ad performance.*
 
 ---
 
-## 🧠 Capstone & Certifications
+## 🧠 Capstone & Certifications  
 
-- [**Technology Trends and Developer InsightS (IBM)**](https://github.com/Rimsha-Iram/IBM_Data_Analyst_Professional_Capstone) 🎓  
-  *End-to-end data analysis workflow — including data collection, web scraping, data wrangling, SQL analysis, and visualization.*
+- [**Technology Trends and Developer Insights (IBM Capstone)**](https://github.com/Rimsha-Iram/Technology-Trends-and-Developer-Insights-IBM) 🎓  
+  *End-to-end data analysis workflow — including web scraping, data wrangling, SQL, and visualization.*
 
 - [**Certifications Repository**](https://github.com/Rimsha-Iram/Certifications) 🏅  
-  *Collection of all IBM and professional certificates.*
+  *All IBM and professional certificates compiled in one place.*
 
 ---
 
-## 🧮 Python & Data Analysis Projects
+## 🐍 Python & Data Analysis Projects  
 
 - [**House Sales in King County**](https://github.com/Rimsha-Iram/House-Sales-King-County-Analysis) 🏡  
   *Predictive modeling using Linear, Polynomial & Ridge Regression.*
 
-- [**Olympic Athlete Data Analysis (1896–2016)**](https://github.com/Rimsha-Iram/Olympic-Athlete-Data-Analysis-1896-2016-) 🥇  
-  *Exploratory analysis of Olympic demographics, medals & participation trends.*
+- [**Olympic Athlete Data Analysis (1896–2016)**](https://github.com/Rimsha-Iram/Olympic-Athlete-Data-Analysis-1896-2016) 🥇  
+  *Analyzed Olympic athlete demographics, medals, and participation patterns.*
 
 - [**Tesla & GME Stock Analysis**](https://github.com/Rimsha-Iram/Tesla-GME-Stock-Analysis) 📊  
-  *Web scraping, data cleaning, and visualization of Tesla & GameStop stock and revenue trends.*
+  *Compared Tesla & GameStop stock performance with web-scraped data and visualized financial insights.*
 
 - [**K-Drama Data Analysis**](https://github.com/Rimsha-Iram/KDrama-DataAnalysis) 🎬  
-  *Data-driven exploration of K-drama trends, genres, and audience preferences.*
+  *Data-driven exploration of K-drama genres, trends, and viewer preferences.*
 
 ---
 
