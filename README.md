@@ -1,12 +1,12 @@
 # Hi, I'm Rimsha Iram  
 
-🎓 **Mathematics Graduate | Data Analyst in the Making | AI Tools Explorer**  
+🎓 **Mathematics Graduate | IBM Certified Data Analyst | AI Tools Explorer**  
 ✨ Passionate about turning raw data into meaningful insights & impactful stories.  
 🔍 Exploring analytics, visualization & AI tools to bridge numbers with decisions.  
 
 ---
 
-## 🚀 Skills & Tools  
+## Skills & Tools  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
@@ -18,8 +18,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/SPSS_logo.png" alt="SPSS" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="45" height="45"/>
 </p>
-
-📌 *IBM Certified Data Analyst*
 
 ---
 
